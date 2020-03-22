@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(225, 255, 225)
+}
+.active {
+    background-color: #4CAF50;
+}
+
+h4 {
+  color: black
+}
+
+h5 {
+    text-align: center;
+}
+  
+h6 {
+    text-align: justify;
+}
+h6 {
+    word-spacing: 10px;
+}
+  
+  {
+    text-align: right;
+  }
+  
